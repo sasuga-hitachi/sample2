@@ -5,7 +5,7 @@ The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-
 
 The Frommer's travel guide describes the Golden Gate Bridge as "possibly the most beautiful, certainly the most photographed, bridge in the world." At the time of its opening in 1937, it was both the longest and the tallest suspension bridge in the world, with a main span of 4,200 feet (1,280 m) and a total height of 746 feet (227 m).
 
-<iframewidth="560" height="315"src="https://youtu.be/hanE_bysWro" title="San Francisco California | 4K Drone Footage"frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"src="https://youtu.be/hanE_bysWro" title="San Francisco California | 4K Drone Footage"frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## History
 ### Ferry service
