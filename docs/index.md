@@ -1,5 +1,5 @@
 # Golden Gate Bridge
-![Golden Gate Bridge](https://en.wikipedia.org/wiki/File:GoldenGateBridge-001.jpg)
+![Golden Gate Bridge](https://github.com/sasuga-hitachi/sample2/blob/main/GoldenGateBridge-001.jpg)
 
 The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean. The structure links the U.S. city of San Francisco, California—the northern tip of the San Francisco Peninsula—to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Being declared one of the Wonders of the Modern World by the American Society of Civil Engineers, the bridge is one of the most internationally recognized symbols of San Francisco and California. It was initially designed by engineer Joseph Strauss in 1917. The bridge was named for the Golden Gate strait, the channel that it spans.
 
